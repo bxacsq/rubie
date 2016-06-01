@@ -2,3 +2,4 @@ test.a
 test2
 test3
 main test.a
+feature test
